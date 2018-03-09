@@ -8,7 +8,10 @@
     <param name="framerate" value="30"/>
     <param name="exposure_mode" value="antishake"/>
     <param name="shutter_speed" value="0"/>
-
+    
+    <param name="vFlip" value="true"/>
+    <param name="hFlip" value="true" />
+    
     <param name="camera_frame_id" value="raspicam"/>
 
   </node>
